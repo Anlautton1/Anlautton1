@@ -55463,7 +55463,7 @@ L:function(a,b){var s=null
 return M.acs(s,T.n5(new T.yH(1,new A.Bz(new K.R4(this),s),s),s,s))}}
 K.R_.prototype={
 $1:function(a){var s=null,r=t.fQ
-return new E.mR(L.m7("Gewonnen :)",s),E.an0(new T.BI(H.b([L.m7("Bravo, gut gemacht!",s),L.m7("Du kennst jetzt alle Umlaute!",s),U.acG(L.m7("Klick mich um deinen Preis zu erhalten",s),new K.QY())],r),s)),H.b([U.acG(L.m7("Neues Spiel",s),new K.QZ(a))],r),s)},
+return new E.mR(L.m7("Gewonnen :)",s),E.an0(new T.BI(H.b([L.m7("Bravo, gut gemacht!",s),L.m7("Du kennst jetzt alle Anlaute!",s),U.acG(L.m7("Klick mich um deinen Preis zu erhalten",s),new K.QY())],r),s)),H.b([U.acG(L.m7("Neues Spiel",s),new K.QZ(a))],r),s)},
 $S:353}
 K.QY.prototype={
 $0:function(){C.aG.a0a(window,"https://ein-tierischer-spass.github.io/ein-tierischer-spass/puzzle/Level-1-Ziege-1.pdf","new tab")},
